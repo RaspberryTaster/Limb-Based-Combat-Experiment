@@ -1,0 +1,150 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.1f1 (6fdc41dfa55a) revision 7330881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.959; Version 1909; 64bit' Language: 'en' Physical Memory: 8032 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Arhin/Documents/Unity projects/Combat (Concrete)/Limb Combat
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56737
+Successfully changed project path to: C:/Users/Arhin/Documents/Unity projects/Combat (Concrete)/Limb Combat
+C:/Users/Arhin/Documents/Unity projects/Combat (Concrete)/Limb Combat
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.1f1 (6fdc41dfa55a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Arhin/Documents/Unity projects/Combat (Concrete)/Limb Combat/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti with Max-Q Design (ID=0x2191)
+    Vendor:   NVIDIA
+    VRAM:     5991 MB
+    Driver:   27.21.14.5122
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56828
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007517 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 66.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.725 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001800 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.922 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1719.
+Total: 2.592600 ms (FindLiveObjects: 0.242200 ms CreateObjectMapping: 0.058300 ms MarkObjects: 2.218300 ms  DeleteObjects: 0.072600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Limb Combat/Body Parts/Body.cs
+  artifactKey: Guid(5d8cbbbdaf204ff40830d2fd6facaa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Body Parts/Body.cs using Guid(5d8cbbbdaf204ff40830d2fd6facaa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb32fc623f451cc76e978da2cf4ef14') in 0.098297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Limb Combat/Character Stats/StatModifier.cs
+  artifactKey: Guid(b898d97ebf376c84ebd1267a8db6d494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Character Stats/StatModifier.cs using Guid(b898d97ebf376c84ebd1267a8db6d494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '337cf27823e36bfd9eff1ed502ae2aa7') in 0.005433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Limb Combat/Body Parts/Body_Combat.cs
+  artifactKey: Guid(953425f5d16ad8d48aac3d07afd32ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Body Parts/Body_Combat.cs using Guid(953425f5d16ad8d48aac3d07afd32ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c1356bf79c5a143199d26422b3d184') in 0.005375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Limb Combat/Body Parts/Body_Part_Combat.cs
+  artifactKey: Guid(1d2cbcf98d0e57f4988a7129bf47f21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Body Parts/Body_Part_Combat.cs using Guid(1d2cbcf98d0e57f4988a7129bf47f21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e90ab52ce5363df4485e9abc4cfd4b') in 0.005832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Limb Combat/Demo/Test_Attacker.cs
+  artifactKey: Guid(97208b9b27e41d243930bee57e7e5337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Demo/Test_Attacker.cs using Guid(97208b9b27e41d243930bee57e7e5337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60843102c32fb385f61efb8d4c77f254') in 0.005527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Limb Combat/Body Parts/Body_Part.cs
+  artifactKey: Guid(961e45ceaf29d3f499ba5fac35756df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Body Parts/Body_Part.cs using Guid(961e45ceaf29d3f499ba5fac35756df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abdd98bdf012c0f230c7f8a2980f2a35') in 0.005484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Limb Combat/Body Parts/Body_Part_Handler.cs
+  artifactKey: Guid(b6cf485c73f5c1a4b8bfba9e54975159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Body Parts/Body_Part_Handler.cs using Guid(b6cf485c73f5c1a4b8bfba9e54975159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a3b8913d4fec0419121f151d87e000') in 0.005494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Limb Combat/Character Stats/CharacterStat.cs
+  artifactKey: Guid(884cdbc2e02f21c4f81b064ab299a8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Character Stats/CharacterStat.cs using Guid(884cdbc2e02f21c4f81b064ab299a8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8918cab706dd2f8168bf805c139e9b') in 0.006027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.226462 seconds.
+  path: Assets/Limb Combat/Body Parts/IBody_Part_Handler.cs
+  artifactKey: Guid(b8ad000db3820e64aa4a5ec87742908c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Body Parts/IBody_Part_Handler.cs using Guid(b8ad000db3820e64aa4a5ec87742908c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a544bdd47e449ae9c86c6a865b3c22') in 0.005959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.243590 seconds.
+  path: Assets/Limb Combat/Body Parts/Non_Vital_Body_Part_Handler.cs
+  artifactKey: Guid(b9651ecb974a99945a7f99a77efa9f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Body Parts/Non_Vital_Body_Part_Handler.cs using Guid(b9651ecb974a99945a7f99a77efa9f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '121a9685e6c07eddc421cb2d2b15e328') in 0.005591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.239733 seconds.
+  path: Assets/Limb Combat/Body Parts/Torso.cs
+  artifactKey: Guid(92cc2872b2b8b7e419257b4ef947f3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Body Parts/Torso.cs using Guid(92cc2872b2b8b7e419257b4ef947f3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21032079e3c1c7545cffba1bfaf9d660') in 0.005579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.281758 seconds.
+  path: Assets/Limb Combat/Body Parts/Vital_Body_Part_Handler.cs
+  artifactKey: Guid(6b22c730b8a953840848782a51f3dc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Body Parts/Vital_Body_Part_Handler.cs using Guid(6b22c730b8a953840848782a51f3dc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f936aa066b9308a4c9e8d7ba99eb1d1b') in 0.006247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.514224 seconds.
+  path: Assets/Limb Combat/Attacks/Damaging_Attack.cs
+  artifactKey: Guid(505ad935062308b4f851c2c87079059f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Limb Combat/Attacks/Damaging_Attack.cs using Guid(505ad935062308b4f851c2c87079059f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'badff410461aaf8322be54442ecf6934') in 0.008379 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
